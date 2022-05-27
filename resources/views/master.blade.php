@@ -27,5 +27,15 @@
         height: 500px;
         padding-top: 100px;
     }
+    /* Product Slider - check product.blade.php */
+    img.slider-img{
+        height:400px !important
+    }
+    .custom-product{
+        height: 600px
+    }
+    .slider-text{
+        background-color: #da7d0dbf !important;
+    }
 </style>
 </html>
