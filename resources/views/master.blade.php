@@ -50,5 +50,8 @@
     .detail-img{
         height: 500px;
     }
+    .search-box{
+        width: 500px !important
+    }
 </style>
 </html>
