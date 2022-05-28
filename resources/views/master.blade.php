@@ -38,7 +38,7 @@
         background-color: #da7d0dbf !important;
     }
     .trending-image{
-        height: 100px;
+        height: 250px;
     }
     .trending-item{
         float: left;
@@ -46,6 +46,9 @@
     }
     .trending-wrapper{
         margin: 30px;
+    }
+    .detail-img{
+        height: 500px;
     }
 </style>
 </html>
